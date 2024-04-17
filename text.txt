@@ -1,0 +1,35 @@
+          <!-- <button
+            class="carousel-control-prev"
+            type="button"
+            data-bs-target="#carouselExample"
+            data-bs-slide="prev"
+          >
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button
+            class="carousel-control-next"
+            type="button"
+            data-bs-target="#carouselExample"
+            data-bs-slide="next"
+          >
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button> -->
+
+<div class="carousel-item text text-center">
+              <img
+                src="https://th.bing.com/th/id/OIP.PApEG6GvVWDZBtRz868Q0AAAAA?w=474&h=316&rs=1&pid=ImgDetMain"
+                class="rounded mx-auto d-block w-50"
+                class="text-center"
+                alt="logo2"
+              />
+            </div>
+            <div class="carousel-item text text-center">
+              <img
+                src="https://www.vitrinasexpositoras.com/blog/la-temperatura-de-los-alimentos_pic12ni0t6.jpg"
+                class="rounded mx-auto d-block w-50"
+                class="text-center"
+                alt="logo3"
+              />
+            </div>
